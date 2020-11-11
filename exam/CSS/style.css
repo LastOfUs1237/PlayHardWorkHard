@@ -442,6 +442,7 @@ body {
 }
 .wrap_man .man_text {
   padding: 50px 13px 47px 57px;
+  background-color: #333333;
 }
 .wrap_man .man_text .name_top {
   font-size: 20px;

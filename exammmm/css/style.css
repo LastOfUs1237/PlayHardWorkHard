@@ -1210,6 +1210,7 @@ header .container nav ul li a:hover::before, header .container nav ul li a.activ
 
   .social {
     padding-top: 20px;
+    display: none;
   }
 
   .screen_7 .footer {

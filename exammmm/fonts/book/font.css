@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Gotem Book";
+  	src: url("../fonts/book/GothamBook.woff2") format("woff2"),
+  	url("../fonts/book/GothamBook.woff") format("woff");
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_10146">Text with this font applied</p> */
+.fontsforweb_fontid_10146 {
+	font-family: 'GothamBook' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
+

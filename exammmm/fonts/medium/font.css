@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Gotem Medium";
+  	src: url("../fonts/medium/gotham-medium-webfont.woff2") format("woff2"),
+  	url("../fonts/medium/gotham-medium-webfont.woff") format("woff");
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_5903">Text with this font applied</p> */
+.fontsforweb_fontid_5903 {
+	font-family: 'gothambold1' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
+
+
+

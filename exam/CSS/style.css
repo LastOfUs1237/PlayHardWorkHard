@@ -563,6 +563,11 @@ footer .soc_list ul li a i:hover {
 
   .wrap_man .man_text {
     padding: 50px 0 0 0;
+    margin-top: 30px;
+  }
+
+  .wrap_man .man_text .name_top {
+    padding-bottom: 25px;
   }
 }
 @media screen and (max-width: 768px) {

@@ -350,7 +350,7 @@ body {
 }
 @media screen and (max-width: 650px) {
   .contact .contact_wrap .contact_form .form_wrap {
-    padding: 52px 5px;
+    padding: 52px 10px;
   }
 }
 @media screen and (max-width: 450px) {

@@ -150,3 +150,13 @@ body {
 .lSSlideOuter .lSPager.lSpg > li.active a, .lSSlideOuter .lSPager.lSpg > li:hover a {
   background: #48AAFF;
 }
+
+@media screen and (max-width: 650px) {
+  .btn_slide2 {
+    right: 116px;
+  }
+
+  .btn_slide1 {
+    left: 116px;
+  }
+}

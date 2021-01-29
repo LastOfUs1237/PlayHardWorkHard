@@ -5,6 +5,7 @@ $(document).ready(function(){
         slideMargin: 20,
         speed: 2000,
         controls: false,
+        speed: 1000,
         responsive: [
             {
                 breakpoint:1250,

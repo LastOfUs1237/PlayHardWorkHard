@@ -365,6 +365,10 @@ body {
   .contact_container .contact_header .pretitle_block {
     max-width: 310px;
   }
+
+  .contact .contact_wrap .contact_form .form_wrap form input, .contact .contact_wrap .contact_form .form_wrap form textarea {
+    font-size: 16px;
+  }
 }
 @media screen and (max-width: 375px) {
   .contact .contact_wrap .contact_info ul li .info_wrap {

@@ -77,15 +77,5 @@ $(document).ready(function () {
     } else {
       $('#span2, #span1').hide();
     }
-  }); // $('.basic-demo').on('click',function(e){
-  //     e.preventDefault();
-  //     $.toast({
-  //         text : "Your message",
-  //         position: 'mid-center',
-  //         textAlign: 'center',
-  //         textColor: '#000',
-  //         bgColor: '#29da09',
-  //         hideAfter: 3000
-  //     });
-  // });
+  });
 });
